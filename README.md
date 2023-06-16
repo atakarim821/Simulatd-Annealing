@@ -1,5 +1,5 @@
 # Simulatd-Annealing
-Implementation of Simulated Annealing, a stochastic global search optimization algorithm-
+Implementation of Simulated Annealing, a stochastic global search optimization algorithm. It was a part of Assignment given in EE2703- Applied Programming Lab course 
 
 >Used Simulated Annealing technique to solve famous Travelling Salesman Problem, a NP complete problem. I have animated the search of minimum path using FuncAnimation, a matplotlib method. I have taken two examples (see Assignment7b.py)
 >+ with 10 cities
