@@ -7,9 +7,9 @@ import random
 # For 100 cities simulation use no_of_iterations = 100000 and change no_of_cities = 100
 
 file = "100.txt" 
-no_of_iterations = 10000
+no_of_iterations = 65000
 no_of_cities = 100
-no_of_frames =1000
+no_of_frames =800
 
 locations = []
 with open(file, "r") as points:
